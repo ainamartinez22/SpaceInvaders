@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.LinkedHashMap;
 //import java.util.Map;
 
-//NOTA: aquesta funcio actualitza el User.txt: comença guardant el ranking inicial
+//NOTA: aquesta funcio actualitza el User.txt: comenï¿½a guardant el ranking inicial
 // i lactualitza si al acabar la partida millores a algu del TOP 5
 // reescriu el fitxer User.txt amb el nou ranking actualitzat
 
@@ -104,7 +104,6 @@ public class HighScore extends HashMap<String,Integer>{
 				try {
 					dos.writeBytes(key + "   " + value + "\n");
 				} catch (IOException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 			});    

@@ -17,20 +17,17 @@ public class MouseManager2 implements MouseListener{
 	
 	@Override
 	public void mouseClicked(MouseEvent a) {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void mouseEntered(MouseEvent a) {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void mouseExited(MouseEvent a) {
-		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
