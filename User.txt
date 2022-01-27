@@ -1,0 +1,5 @@
+adri   1580
+cris   4000
+iris   5310
+pep   6530
+aina   7028
